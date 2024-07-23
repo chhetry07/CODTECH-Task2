@@ -1,12 +1,15 @@
-# Weather App
+Name: Bhoomi Chhetry 
+Company: CODTECH IT SOLUTIONS
+ID:CT4WD4442
+Domain:Web Devolopment
+Duration:JULY 10th,2024 to AUGUST 10th,2024 
+Mentor:
 
+# Weather App
+## overview 
 A simple web application that provides the current weather information for any city using the OpenWeatherMap API.
 
-## Author
-
-Bhoomi Chhetry
-
-## Features
+## key activities
 
 - Fetches and displays current weather information.
 - Provides details such as temperature, humidity, pressure, wind speed, and more.
