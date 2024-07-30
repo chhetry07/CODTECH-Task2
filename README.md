@@ -3,7 +3,8 @@ Company: CODTECH IT SOLUTIONS<br>
 ID:CT4WD4442<br>
 Domain:Web Devolopment<br>
 Duration:JULY 10th,2024 to AUGUST 10th,2024 <br>
-Mentor:<br>
+Mentor:Muzammil Ahmed
+<br>
 
 # Weather App
 ## overview 
